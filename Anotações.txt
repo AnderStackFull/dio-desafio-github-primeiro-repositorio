@@ -1,0 +1,11 @@
+** Início da Jornada **
+
+Data estelar 59556.68049
+
+git clone https://github.com/AnderStackFull/dio-desafio-github-primeiro-repositorio.git
+
+
+git add
+git status
+git commit -m "Início da jornada. Data estelar 59556.68049. Velocidade de dobra: 6."
+git push origin main
